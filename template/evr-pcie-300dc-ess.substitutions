@@ -246,6 +246,20 @@ file "evrdcpulser.template"
 file "evrin.db"
 {pattern
 {IN, INTRIG, INCODE, OBJ, DESC}
-{"$(SYS)-$(D):In0-", "$(SYS)-$(D):In0-Trig-", "$(SYS)-$(D):In0-Code-", "$(EVR):FPIn0", "IN0 (TTL)"}
-{"$(SYS)-$(D):In1-", "$(SYS)-$(D):In1-Trig-", "$(SYS)-$(D):In1-Code-", "$(EVR):FPIn1", "IN1 (TTL)"}
+{"$(SYS)-$(D):In00-", "$(SYS)-$(D):In00-Trig-", "$(SYS)-$(D):In00-Code-", "$(EVR):FPIn0", "IN0 (TTL)"}
+{"$(SYS)-$(D):In01-", "$(SYS)-$(D):In01-Trig-", "$(SYS)-$(D):In01-Code-", "$(EVR):FPIn1", "IN1 (TTL)"}
+{"$(SYS)-$(D):In02-", "$(SYS)-$(D):In02-Trig-", "$(SYS)-$(D):In02-Code-", "$(EVR):FPIn2", "IN2 (TTL)"}
+{"$(SYS)-$(D):In03-", "$(SYS)-$(D):In03-Trig-", "$(SYS)-$(D):In03-Code-", "$(EVR):FPIn3", "IN3 (TTL)"}
+{"$(SYS)-$(D):In04-", "$(SYS)-$(D):In04-Trig-", "$(SYS)-$(D):In04-Code-", "$(EVR):FPIn4", "IN4 (TTL)"}
+{"$(SYS)-$(D):In05-", "$(SYS)-$(D):In05-Trig-", "$(SYS)-$(D):In05-Code-", "$(EVR):FPIn5", "IN5 (TTL)"}
+{"$(SYS)-$(D):In06-", "$(SYS)-$(D):In06-Trig-", "$(SYS)-$(D):In06-Code-", "$(EVR):FPIn6", "IN6 (TTL)"}
+{"$(SYS)-$(D):In07-", "$(SYS)-$(D):In07-Trig-", "$(SYS)-$(D):In07-Code-", "$(EVR):FPIn7", "IN7 (TTL)"}
+{"$(SYS)-$(D):In08-", "$(SYS)-$(D):In08-Trig-", "$(SYS)-$(D):In08-Code-", "$(EVR):FPIn8", "IN8 (TTL)"}
+{"$(SYS)-$(D):In09-", "$(SYS)-$(D):In09-Trig-", "$(SYS)-$(D):In09-Code-", "$(EVR):FPIn9", "IN9 (TTL)"}
+{"$(SYS)-$(D):In10-", "$(SYS)-$(D):In10-Trig-", "$(SYS)-$(D):In10-Code-", "$(EVR):FPIn10", "IN10 (TTL)"}
+{"$(SYS)-$(D):In11-", "$(SYS)-$(D):In11-Trig-", "$(SYS)-$(D):In11-Code-", "$(EVR):FPIn11", "IN11 (TTL)"}
+{"$(SYS)-$(D):In12-", "$(SYS)-$(D):In12-Trig-", "$(SYS)-$(D):In12-Code-", "$(EVR):FPIn12", "IN12 (TTL)"}
+{"$(SYS)-$(D):In13-", "$(SYS)-$(D):In13-Trig-", "$(SYS)-$(D):In13-Code-", "$(EVR):FPIn13", "IN13 (TTL)"}
+{"$(SYS)-$(D):In14-", "$(SYS)-$(D):In14-Trig-", "$(SYS)-$(D):In14-Code-", "$(EVR):FPIn14", "IN14 (TTL)"}
+{"$(SYS)-$(D):In15-", "$(SYS)-$(D):In15-Trig-", "$(SYS)-$(D):In15-Code-", "$(EVR):FPIn15", "IN15 (TTL)"}
 }
